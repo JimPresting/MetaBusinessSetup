@@ -8,6 +8,7 @@
 ![image](https://github.com/user-attachments/assets/229cc624-57ea-4e12-ac1d-358fd7fc690c)
 
 ### 1.2 **Now, go to the **Business Portfolio Info** section (very top) and fill out the required details by clicking **Edit** under **Business Details**.**
+![image](https://github.com/user-attachments/assets/67b1ea24-8618-4bde-8fa0-5fde70bb1ef4)
 
 
 ### 1.3 **After that, select the newly created **Business Portfolio** and navigate to **Business Manager Settings**.**
