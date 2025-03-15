@@ -128,7 +128,17 @@ Go back to the developers.facebook.com page click on Generate access token and r
 The last thing we are going to do is 
 
 1. Go back to the Whatsapp Business Manager page and select the phone number
-2. 
+2. It should now show you a limit of 1K messages per 24 hours if you click on Insights
+![image](https://github.com/user-attachments/assets/2360bb03-c566-4e97-b89d-a0fd49e1353b)
+3. If your business has a notable online presence, such as published articles, blog posts, or independent reviews, you can apply for an official WhatsApp Business Account. If approved, WhatsApp will add a blue checkmark to your profile, enhancing trust and credibility. However, their criteria for approval are somewhat unclear. As they state:  
+*"Articles, blog posts, or independent reviews that show your business is well-known and recognized by consumers."*  
+This means that simply having a website or social media accounts is not sufficient—WhatsApp looks for third-party sources that establish your brand's recognition.
+
+4. Click on Submit Request and fill out the form (NOTE: your display name has to be approved and your messaging limit needs to be >= 1K messages /24hrs)
+![image](https://github.com/user-attachments/assets/a84971f3-3e65-4a1b-9d1b-d04878f55eb7)
+![image](https://github.com/user-attachments/assets/feede424-0a06-4fff-891e-4ed22fd7a516)
+
+
 
 
 
