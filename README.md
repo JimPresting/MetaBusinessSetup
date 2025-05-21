@@ -101,7 +101,8 @@ Go back to [developers.facebook.com](https://developers.facebook.com) and refres
 
 ### Now we need to verify the phone number  
 If you go back to the [business.facebook.com](https://business.facebook.com) page and refresh it, it should now say **Business verification: approved**, **Account status: approved**, and show your **Payment Method**. Click on **WhatsApp Manager**.
-![image](https://github.com/user-attachments/assets/56bf7202-069d-466c-b7aa-14e2964a2b28)
+![image](https://github.com/user-attachments/assets/ce569e85-120f-4ce6-98ba-d2b27bafd677)
+
 
 
 Under Phone Numbers it now says Pending (its not really Pending nothing will happen once you dont act from here)
