@@ -112,7 +112,8 @@ Go back to the developers.facebook.com page click on Generate access token and r
 1. Click on Edit Previous Settings
 ![image](https://github.com/user-attachments/assets/adc1aedb-237a-4438-bd39-a9c45f637f4b)
 2. Select the one that matches your WhatsApp Business Account ID. In your case, there should be just two options: the one you created and the Test Account.
-![image](https://github.com/user-attachments/assets/b7c26809-f618-4640-bb7a-85658b105eed)
+![image](https://github.com/user-attachments/assets/946155e7-0551-42d6-a38c-c3009cc0d901)
+
 
 3. Click on "Continue" , "Save", and "Got it".
 
