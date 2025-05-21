@@ -1,4 +1,4 @@
-# Setting Up a Meta Business Account/Portfolio from Scratch  
+# Setting Up a Meta and Whatsapp Business Account/Portfolio from Scratch  
 **Note:** You must have a registered business to follow these steps and verify your account.
 
 
